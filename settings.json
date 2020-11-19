@@ -1,0 +1,61 @@
+{
+  "extensions.ignoreRecommendations": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Omni",
+  "workbench.iconTheme": "vscode-icons",
+  "debug.console.fontFamily": "Fira Code Retina",
+  "editor.fontFamily": "'Fira Code Retina', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 24,
+  "editor.formatOnSave": true,
+  "update.mode": "none",
+  "editor.rulers": [80, 120],
+  "editor.tabSize": 2,
+  "breadcrumbs.enabled": true,
+  "editor.parameterHints.enabled": true,
+  "vsicons.dontShowConfigManuallyChangedMessage": true,
+  "prettier.singleQuote": true,
+  "files.autoSave": "onFocusChange",
+  "editor.renderWhitespace": "all",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  "terminal.integrated.fontSize": 14,
+  "editor.renderLineHighlight": "gutter",
+  "window.zoomLevel": 1,
+  "[json]": {},
+  "git.enabled": true,
+  "git.path": "C:/Program Files/Git/bin/git.exe",
+  "liveServer.settings.multiRootWorkspaceName": "",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    "**/.git": false
+  },
+  "explorer.confirmDelete": false,
+  "team.showWelcomeMessage": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "git.suggestSmartCommit": true,
+  "editor.minimap.enabled": false,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "discord.clientID": "734825007435218974",
+  "discord.largeImageIdle": "português",
+  "tabnine.experimentalAutoImports": true,
+  "twitch.channel": "carol_de_abreu",
+  "twitch.oauth": "oauth:0wj5cxw6hujhs3c51nzi4s9a0jg96s",
+  "twitch.username": "Carol_de_Abreu",
+  "twitch.alert": true,
+  "liveServer.settings.donotVerifyTags": true
+}
